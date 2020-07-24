@@ -1,5 +1,7 @@
 Esta es mi historia
 
 Mi nombre es Pako Flores
+y vivo en México
 
+tengo 37 años
 y empiezo a hacer mis pruebas con git
